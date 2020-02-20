@@ -4,13 +4,10 @@ import Scroll from '../common/Scroll';
 const Introduction = () =>
   <section id="intro" className="wrapper style1 fullscreen fade-up">
     <div className="inner">
-      <h1>Hyperspace</h1>
+      <h1>Machine Learning Club at UVA</h1>
       <p>
-        Just another fine responsive site template designed by{' '}
-        <a href="http://html5up.net">HTML5 UP</a>
-        <br />
-        and released for free under the{' '}
-        <a href="http://html5up.net/license">Creative Commons</a>.
+        A University of Virginia CIO educating future academics and industry professionals
+        in the field of Machine Learning, and having a little fun while doing it.
       </p>
       <ul className="actions">
         <li>
